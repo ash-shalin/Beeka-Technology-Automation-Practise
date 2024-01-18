@@ -1,6 +1,6 @@
 # Beeka-Technology-Automation-Practise
 
-Programming language: Java \n
+Programming language: Java "\n"
 Used Frameworkd: Selenium, TestNG, ExtendReport
 Design pattern: Page Object Model
 Location: src/test/java
